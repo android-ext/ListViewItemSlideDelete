@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\dongxu\\git\\ListViewItemSlideDelete\\app\\build\\intermediates\\res\\merged\\debug\\anim\\delete_btn_show.xml",
+        "source": "C:\\Users\\dongxu\\git\\ListViewItemSlideDelete\\app\\src\\main\\res\\anim\\delete_btn_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\dongxu\\git\\ListViewItemSlideDelete\\app\\build\\intermediates\\res\\merged\\debug\\anim\\delete_btn_hide.xml",
+        "source": "C:\\Users\\dongxu\\git\\ListViewItemSlideDelete\\app\\src\\main\\res\\anim\\delete_btn_hide.xml"
+    }
+]
